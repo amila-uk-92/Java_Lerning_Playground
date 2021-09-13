@@ -1,6 +1,6 @@
 package test.tree;
 
-public class BinaryTree {
+class BinaryTreeTest1 {
 
     public static void main(String args[]){
 
