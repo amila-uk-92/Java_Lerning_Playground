@@ -15,6 +15,8 @@ public class HashTest {
         empMap.put(emp2, "Amila");
         empMap.put(null, "Amila");
 
+
+
         System.out.println(emp1.equals(emp2));
         System.out.println(empMap.entrySet());
         System.out.println(empMap.size());
