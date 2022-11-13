@@ -23,6 +23,5 @@ public class ConcurrentTest {
 //            System.out.println("size of the vec: " + size);
 //        }
 
-
     }
 }
